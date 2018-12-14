@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>DocumentProcessor.Spreadsheets</RootNamespace>
+    <AssemblyName>DocumentProcessor.Spreadsheets</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NPOI" Version="2.4.0" />
+  </ItemGroup>
+
+</Project>
